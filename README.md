@@ -16,7 +16,7 @@ PHP 7 是 PHP 编程语言全新的一个版本，主要在性能方面获得了
 
 ## 现在就开始阅读
 
-你可以通过 https://book.zinaer.com 在线阅读本书。
+你可以通过 https://book.zinaer.com （网站建设中）在线阅读本书。
 
 ## 支持作者
 
@@ -27,11 +27,11 @@ PHP 7 是 PHP 编程语言全新的一个版本，主要在性能方面获得了
 
 ## 下载
 
-你可以访问 https://book.zinaer.com 以获得本书以下格式的下载：
+你可以访问 https://book.zinaer.com （网站建设中）以获得本书以下格式的下载：
 
-* [PDF](https://book.zinaer.com/a-byte-of-php/a-byte-of-php.pdf)（可在电脑上阅读）
-* [EPUB](https://book.zinaer.com/a-byte-of-php/a-byte-of-php.epub)（可在 iPhone、iPad、电子书阅读器上阅读）
-* [Mobi](https://book.zinaer.com/a-byte-of-php/a-byte-of-php.mobi)（可在 Kindle 上阅读）
+* [PDF](https://book.zinaer.com/a-byte-of-php/a-byte-of-php.pdf)（可在电脑上阅读）（待更新）
+* [EPUB](https://book.zinaer.com/a-byte-of-php/a-byte-of-php.epub)（可在 iPhone、iPad、电子书阅读器上阅读）（待更新）
+* [Mobi](https://book.zinaer.com/a-byte-of-php/a-byte-of-php.mobi)（可在 Kindle 上阅读）（待更新）
 
 本书在未来可能会有些许修订，如果你打算下载一份电子书版用来离线阅读，建议隔一段时间后回来看看是否有新版。
 
@@ -39,4 +39,4 @@ PHP 7 是 PHP 编程语言全新的一个版本，主要在性能方面获得了
 
 ## 在你使用的语言下阅读本书
 
-如果你有意在其他人类语言下阅读本书，或为本书提供翻译，请参阅[翻译](./20.translations.md)与[如何翻译](./21.translation-how-to.md)。
+如果你有意在其他人类语言下阅读本书，或为本书提供翻译，请参阅[翻译](./21.translations.md)与[如何翻译](./22.translation-how-to.md)。
