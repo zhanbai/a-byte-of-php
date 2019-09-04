@@ -198,7 +198,7 @@
                 <a href="08.control_flow.html">
             
                     
-                    控制流
+                    流程控制
             
                 </a>
             
@@ -520,7 +520,7 @@ $a = 2;
 $a *= 3;
 </code></pre><p>&#x8981;&#x6CE8;&#x610F;&#x5230; <code>&#x53D8;&#x91CF; = &#x53D8;&#x91CF; &#x8FD0;&#x7B97; &#x8868;&#x8FBE;&#x5F0F;</code> &#x4F1A;&#x6F14;&#x53D8;&#x6210; <code>&#x53D8;&#x91CF; &#x8FD0;&#x7B97; = &#x8868;&#x8FBE;&#x5F0F;</code>&#x3002;</p>
 <p>&#x4E0A;&#x8FF0;&#x8D4B;&#x503C;&#x8FD0;&#x7B97;&#x5C06;&#x539F;&#x53D8;&#x91CF;&#x7684;&#x503C;&#x62F7;&#x8D1D;&#x5230;&#x65B0;&#x53D8;&#x91CF;&#x4E2D;&#xFF08;&#x4F20;&#x503C;&#x8D4B;&#x503C;&#xFF09;&#xFF0C;&#x6240;&#x4EE5;&#x6539;&#x53D8;&#x5176;&#x4E2D;&#x4E00;&#x4E2A;&#x5E76;&#x4E0D;&#x5F71;&#x54CD;&#x53E6;&#x4E00;&#x4E2A;&#x3002;</p>
-<p>PHP &#x4E5F;&#x652F;&#x6301;&#x5F15;&#x7528;&#x8D4B;&#x503C;&#xFF0C;&#x4F7F;&#x7528;&#x201C;$var = &amp;$othervar;&#x201D;&#x8BED;&#x6CD5;&#x3002;&#x5F15;&#x7528;&#x8D4B;&#x503C;&#x610F;&#x5473;&#x7740;&#x4E24;&#x4E2A;&#x53D8;&#x91CF;&#x6307;&#x5411;&#x4E86;&#x540C;&#x4E00;&#x4E2A;&#x6570;&#x636E;&#xFF0C;&#x6CA1;&#x6709;&#x62F7;&#x8D1D;&#x4EFB;&#x4F55;&#x4E1C;&#x897F;&#x3002;</p>
+<p>PHP &#x4E5F;&#x652F;&#x6301;&#x5F15;&#x7528;&#x8D4B;&#x503C;&#xFF0C;&#x4F7F;&#x7528;<code>$var = &amp;$othervar;</code>&#x8BED;&#x6CD5;&#x3002;&#x5F15;&#x7528;&#x8D4B;&#x503C;&#x610F;&#x5473;&#x7740;&#x4E24;&#x4E2A;&#x53D8;&#x91CF;&#x6307;&#x5411;&#x4E86;&#x540C;&#x4E00;&#x4E2A;&#x6570;&#x636E;&#xFF0C;&#x6CA1;&#x6709;&#x62F7;&#x8D1D;&#x4EFB;&#x4F55;&#x4E1C;&#x897F;&#x3002;</p>
 <h2 id="&#x6C42;&#x503C;&#x987A;&#x5E8F;">&#x6C42;&#x503C;&#x987A;&#x5E8F;</h2>
 <p>&#x5982;&#x679C;&#x4F60;&#x6709;&#x4E00;&#x4E2A;&#x8BF8;&#x5982; <code>2 + 3 * 4</code> &#x7684;&#x8868;&#x8FBE;&#x5F0F;&#xFF0C;&#x662F;&#x4F18;&#x5148;&#x5B8C;&#x6210;&#x52A0;&#x6CD5;&#x8FD8;&#x662F;&#x4F18;&#x5148;&#x5B8C;&#x6210;&#x4E58;&#x6CD5;&#x5462;&#xFF1F;&#x6211;&#x4EEC;&#x7684;&#x9AD8;&#x4E2D;&#x6570;&#x5B66;&#x77E5;&#x8BC6;&#x4F1A;&#x544A;&#x8BC9;&#x6211;&#x4EEC;&#x5E94;&#x8BE5;&#x5148;&#x5B8C;&#x6210;&#x4E58;&#x6CD5;&#x3002;&#x8FD9;&#x610F;&#x5473;&#x7740;&#x4E58;&#x6CD5;&#x8FD0;&#x7B97;&#x7B26;&#x7684;&#x4F18;&#x5148;&#x7EA7;&#x8981;&#x9AD8;&#x4E8E;&#x52A0;&#x6CD5;&#x8FD0;&#x7B97;&#x7B26;&#x3002;</p>
 <p>&#x4E0B;&#x9762;&#x5C06;&#x7ED9;&#x51FA; PHP &#x4E2D;&#x4ECE;&#x6700;&#x4F4E;&#x4F18;&#x5148;&#x7EA7;&#xFF08;&#x6700;&#x5C11;&#x7ED1;&#x5B9A;&#xFF09;&#x5230;&#x6700;&#x9AD8;&#x4F18;&#x5148;&#x7EA7;&#xFF08;&#x6700;&#x591A;&#x7ED1;&#x5B9A;&#xFF09;&#x7684;&#x4F18;&#x5148;&#x7EA7;&#x8868;&#x3002;&#x8FD9;&#x610F;&#x5473;&#x7740;&#xFF0C;&#x5728;&#x7ED9;&#x5B9A;&#x7684;&#x8868;&#x8FBE;&#x5F0F;&#x4E2D;&#xFF0C;PHP &#x5C06;&#x4F18;&#x5148;&#x8BA1;&#x7B97;&#x8868;&#x4E2D;&#x4F4D;&#x5217;&#x4E8E;&#x540E;&#x7684;&#x8F83;&#x9AD8;&#x4F18;&#x5148;&#x7EA7;&#x7684;&#x8FD0;&#x7B97;&#x7B26;&#x4E0E;&#x8868;&#x8FBE;&#x5F0F;&#x3002;</p>
@@ -531,15 +531,15 @@ $a *= 3;
 <h2 id="&#x7ED3;&#x5408;&#x6027;">&#x7ED3;&#x5408;&#x6027;</h2>
 <p>&#x8FD0;&#x7B97;&#x7B26;&#x901A;&#x5E38;&#x7531;&#x5DE6;&#x81F3;&#x53F3;&#x7ED3;&#x5408;&#x3002;&#x8FD9;&#x610F;&#x5473;&#x7740;&#x5177;&#x6709;&#x76F8;&#x540C;&#x4F18;&#x5148;&#x7EA7;&#x7684;&#x8FD0;&#x7B97;&#x7B26;&#x5C06;&#x4ECE;&#x5DE6;&#x81F3;&#x53F3;&#x7684;&#x65B9;&#x5F0F;&#x4F9D;&#x6B21;&#x8FDB;&#x884C;&#x6C42;&#x503C;&#x3002;&#x5982; <code>2 + 3 + 4</code> &#x5C06;&#x4F1A;&#x4EE5; <code>(2 + 3) + 4</code> &#x7684;&#x5F62;&#x5F0F;&#x52A0;&#x4EE5;&#x8BA1;&#x7B97;&#x3002;</p>
 <h2 id="&#x8868;&#x8FBE;&#x5F0F;">&#x8868;&#x8FBE;&#x5F0F;</h2>
-<p>&#x6848;&#x4F8B;&#xFF08;&#x5C06;&#x5176;&#x4FDD;&#x5B58;&#x4E3A; <code>expression.php</code>&#xFF09;</p>
+<p>&#x793A;&#x4F8B;&#xFF08;&#x5C06;&#x5176;&#x4FDD;&#x5B58;&#x4E3A; <code>expression.php</code>&#xFF09;</p>
 <pre><code>&lt;?php
 $length = 5;
 $breadth = 2;
 
 $area = $length * $breadth;
 
-echo &apos;Area is &apos; . $area . &quot;\n&quot;;
-echo &apos;Perimeter is &apos; . 2 * ($length + $breadth) . &quot;\n&quot;;
+echo &apos;Area is &apos; . $area . PHP_EOL;
+echo &apos;Perimeter is &apos; . 2 * ($length + $breadth) . PHP_EOL;
 </code></pre><p>&#x8F93;&#x51FA;&#xFF1A;</p>
 <pre><code>$ php expression.php
 Area is 10
@@ -580,7 +580,7 @@ Perimeter is 14
                 </a>
                 
                 
-                <a href="08.control_flow.html" class="navigation navigation-next " aria-label="Next page: 控制流">
+                <a href="08.control_flow.html" class="navigation navigation-next " aria-label="Next page: 流程控制">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -591,7 +591,7 @@ Perimeter is 14
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"运算符与表达式","level":"1.8","depth":1,"next":{"title":"控制流","level":"1.9","depth":1,"path":"08.control_flow.md","ref":"08.control_flow.md","articles":[]},"previous":{"title":"基础","level":"1.7","depth":1,"path":"06.basics.md","ref":"06.basics.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"07.op_exp.md","mtime":"2019-08-27T07:53:24.928Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-08-27T07:58:35.724Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"运算符与表达式","level":"1.8","depth":1,"next":{"title":"流程控制","level":"1.9","depth":1,"path":"08.control_flow.md","ref":"08.control_flow.md","articles":[]},"previous":{"title":"基础","level":"1.7","depth":1,"path":"06.basics.md","ref":"06.basics.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":[],"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"}},"file":{"path":"07.op_exp.md","mtime":"2019-09-02T09:30:46.276Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-09-04T06:32:31.577Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>

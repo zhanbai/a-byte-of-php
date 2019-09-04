@@ -8,7 +8,7 @@
 * [第一步](05.first_steps.md)
 * [基础](06.basics.md)
 * [运算符与表达式](07.op_exp.md)
-* [控制流](08.control_flow.md)
+* [流程控制](08.control_flow.md)
 * [函数](09.functions.md)
 * [模块](10.modules.md)
 * [数据结构](11.data_structures.md)
