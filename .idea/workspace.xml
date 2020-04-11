@@ -1,36 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c76b2b9-3549-4a4c-9fed-adef3e93dbe8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/07.op_exp.md" beforeDir="false" afterPath="$PROJECT_DIR$/07.op_exp.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/08.control_flow.md" beforeDir="false" afterPath="$PROJECT_DIR$/08.control_flow.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/SUMMARY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/01.dedication.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/01.dedication.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/02.preface.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/02.preface.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/03.about_php.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/03.about_php.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/04.installation.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/04.installation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/05.first_steps.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/05.first_steps.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/06.basics.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/06.basics.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/07.op_exp.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/07.op_exp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/08.control_flow.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/09.functions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/10.modules.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/11.data_structures.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/12.problem_solving.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/13.oop.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/14.io.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/15.exceptions.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/16.stdlib.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/17.more.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/18.what_next.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/19.floss.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/20.revision_history.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/21.translations.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/22.translation-how-to.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/23.feedback.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/search_index.json" beforeDir="false" />
-    </list>
+    <list default="true" id="6c76b2b9-3549-4a4c-9fed-adef3e93dbe8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +14,7 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programs/while.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -108,6 +79,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,10 +96,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -157,23 +129,19 @@
       <option name="presentableId" value="Default" />
       <updated>1567476710375</updated>
       <workItem from="1567476711511" duration="897000" />
+      <workItem from="1567645563988" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="897000" />
+    <option name="totallyTimeSpent" value="909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -181,10 +149,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
